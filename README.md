@@ -1,1 +1,1 @@
-# rails-helloworld-api
+# go-helloworld-api
