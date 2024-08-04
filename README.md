@@ -8,10 +8,6 @@ This is a simple "Hello World" API written in Go. It serves as a basic example o
 - JSON response
 - Single endpoint that returns a "Hello World" message
 
-## Prerequisites
-
-- Go 1.x or higher
-
 ## Installation
 
 1. Clone the repository:
