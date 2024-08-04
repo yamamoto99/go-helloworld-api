@@ -1,4 +1,4 @@
-# go-helloworld-api
+# Go HelloWorld API
 
 This is a simple "Hello World" API written in Go. It serves as a basic example of how to create a HTTP server that responds with a JSON message.
 
