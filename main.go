@@ -12,7 +12,7 @@ func helloWorld(w http.ResponseWriter, r *http.Request) {
 }
 
 func main() {
-	http.HandleFunc("/hello_world", helloWorld)
+	http.HandleFunc("/", helloWorld)
 	fmt.Println("Server is running on port 8080")
 	http.ListenAndServe(":8080", nil)
 }
