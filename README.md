@@ -14,7 +14,7 @@ This is a simple "Hello World" API written in Go. It serves as a basic example o
 ```git clone https://github.com/yamamoto99/go-helloworld-api.git```
 
 2. Navigate to the project directory:
-cd go-helloworld-api
+`cd go-helloworld-api`
 
 ## Usage
 
